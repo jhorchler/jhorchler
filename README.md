@@ -11,7 +11,6 @@ The topics and products I am currently dealing with and interested in:
   - [Vagrant](https://www.vagrantup.com/)
   - [Terraform](https://www.terraform.io/)
   - [Saltstack](https://saltproject.io/)
-  - [Chef](https://www.chef.io/)
 - Database
   - [Oracle](https://www.oracle.com)
   - [PostgreSQL](https://www.postgresql.org/)
@@ -19,8 +18,7 @@ The topics and products I am currently dealing with and interested in:
 - Programming
   - [Raku](https://raku.org/) *the artist formerly known as Perl* 😁
   - [Python](https://www.python.org/)
-  - SQL
-  - [Rust](https://www.rust-lang.org/)
+  - SQL (and Oracle PL/SQL)
 - Data Analysis
   - [NumPy](https://numpy.org/) and [CuPy](https://cupy.dev/)
   - [pandas](https://pandas.pydata.org/)
