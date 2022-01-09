@@ -17,12 +17,8 @@ The topics and products I am currently dealing with and interested in:
   - [mongoDB](https://www.mongodb.com/)
 - Programming
   - [Raku](https://raku.org/) *the artist formerly known as Perl* 😁
-  - [Python](https://www.python.org/)
+  - [Julia](https://julialang.org/)
   - SQL (and Oracle PL/SQL)
-- Data Analysis
-  - [NumPy](https://numpy.org/) and [CuPy](https://cupy.dev/)
-  - [pandas](https://pandas.pydata.org/)
-  - [scikit-learn](https://scikit-learn.org/)
 
 Of course, I cannot be an expert on all of these subjects.
 Nevertheless, I work with all of them every now and then.
