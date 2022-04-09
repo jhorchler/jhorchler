@@ -13,11 +13,9 @@ The topics and products I am currently dealing with and interested in:
   - [Saltstack](https://saltproject.io/)
 - Database
   - [Oracle](https://www.oracle.com)
-  - [PostgreSQL](https://www.postgresql.org/)
   - [mongoDB](https://www.mongodb.com/)
 - Programming
-  - [Raku](https://raku.org/) *the artist formerly known as Perl* 😁
-  - [Julia](https://julialang.org/)
+  - [Python](https://www.python.org/) including Data Analysis packages like pandas, cupy etc.
   - SQL (and Oracle PL/SQL)
 
 Of course, I cannot be an expert on all of these subjects.
