@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Oracle DBA and IT specialist with a wide range of interests. I do not only deal with Oracle, but also with automation, programming, and data analysis. 
+I am an Oracle DBA and IT specialist with a wide range of interests. I do not only deal with Oracle, but also with automation, programming, and data analysis. 
 
 I successfully completed the [Udacity](https://www.udacity.com/) Nanodegrees **Data Analysis** and **Machine Learning Engineer**. Please find my submissions in the corresponding repositories here at GitHub.
 
