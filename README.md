@@ -19,7 +19,6 @@ The topics and products I am currently dealing with and interested in:
 - Programming
   - [Python](https://www.python.org/) including Data Analysis packages like pandas, cupy etc.
   - SQL (and Oracle PL/SQL)
-  - Javascript (for my website that is build using 11ty)
 
 Of course, I cannot be an expert on all of these subjects.
 Nevertheless, I work with all of them every now and then.
